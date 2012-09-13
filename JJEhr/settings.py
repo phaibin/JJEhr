@@ -18,7 +18,7 @@ MANAGERS = ADMINS
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': 'db/jjehr_course.db',
+        'NAME': os.path.join(PROJECT_ROOT, 'db', 'jjehr_course.db'),
         'USER': '',
         'PASSWORD': '',
         'HOST': '',
@@ -88,9 +88,9 @@ ADMIN_MEDIA_PREFIX = '/static/'
 
 # Additional locations of static files
 STATICFILES_DIRS = (
-    "./static/lesson",
-    "./static",
-    "./static/yui",
+    os.path.join(PROJECT_ROOT, 'static/'),
+    os.path.join(PROJECT_ROOT, 'static/', 'lesson'),
+    os.path.join(PROJECT_ROOT, 'static/', 'yui'),
     )
 
 # List of finder classes that know how to find static files in
