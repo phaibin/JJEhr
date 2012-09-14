@@ -1,4 +1,4 @@
-from django.conf.urls.defaults import patterns, url
+from django.conf.urls.defaults import patterns, url, include
 
 # Uncomment the next two lines to enable the admin:
 # from django.contrib import admin
@@ -6,6 +6,7 @@ from django.contrib.auth.decorators import login_required
 from django.contrib.staticfiles.urls import staticfiles_urlpatterns
 from django.views.generic.list import ListView
 from JJEhr.survey.models import Survey
+from lesson.api import CourseModelResource
 
 urlpatterns = patterns('',
 
@@ -19,6 +20,7 @@ urlpatterns = patterns('',
     url(r'^backoffice/course/add', 'backoffice.views.addCourse'),
     url(r'^backoffice/notification-email/send', 'backoffice.views.send_notification_email'),
 
+    url(r'^api/', include(CourseModelResource().urls)),
 )
 
 urlpatterns += staticfiles_urlpatterns()

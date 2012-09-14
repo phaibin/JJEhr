@@ -138,7 +138,8 @@ INSTALLED_APPS = (
     'backoffice',
     'lesson',
     'event',
-    'survey'
+    'survey',
+    'tastypie',
     )
 
 # A sample logging configuration. The only tangible logging
