@@ -28,6 +28,9 @@ class Course(models.Model):
 
     objects = models.Manager()
     search_objects = CourseManager()
+    
+    class Meta:
+        ordering = ['-id']
 
     def __unicode__(self):
         return '(courseName = %s)' % (self.courseName,)

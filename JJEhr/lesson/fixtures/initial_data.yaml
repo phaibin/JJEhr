@@ -1,0 +1,360 @@
+- model: lesson.course
+  pk: 1
+  fields: 
+    courseArrange: asdf
+    courseDescription: asdf
+    courseName: 1
+    courseSpeaker: asdf
+    courseStartTime: !!timestamp '2012-09-30 00:00:00'
+    courseTime: 4
+    courseWare: ''
+    createDate: !!timestamp '2012-09-30 23:35:11.672731'
+    enrollEndTime: !!timestamp '2012-09-30 00:00:00'
+    enrollStartTime: !!timestamp '2012-09-10 00:00:00'
+    event_type: 1
+    maxTraineeAmount: 4
+    updatedDate: !!timestamp '2012-09-13 22:55:31.484324'
+    
+- model: lesson.course
+  pk: 2
+  fields: 
+    courseArrange: asdf
+    courseDescription: asdf
+    courseName: 2
+    courseSpeaker: asdf
+    courseStartTime: !!timestamp '2012-09-30 00:00:00'
+    courseTime: 4
+    courseWare: ''
+    createDate: !!timestamp '2012-09-30 23:35:11.672731'
+    enrollEndTime: !!timestamp '2012-09-30 00:00:00'
+    enrollStartTime: !!timestamp '2012-09-10 00:00:00'
+    event_type: 1
+    maxTraineeAmount: 4
+    updatedDate: !!timestamp '2012-09-13 22:55:31.484324'
+    
+- model: lesson.course
+  pk: 3
+  fields: 
+    courseArrange: asdf
+    courseDescription: asdf
+    courseName: 3
+    courseSpeaker: asdf
+    courseStartTime: !!timestamp '2012-09-30 00:00:00'
+    courseTime: 4
+    courseWare: ''
+    createDate: !!timestamp '2012-09-30 23:35:11.672731'
+    enrollEndTime: !!timestamp '2012-09-30 00:00:00'
+    enrollStartTime: !!timestamp '2012-09-10 00:00:00'
+    event_type: 1
+    maxTraineeAmount: 4
+    updatedDate: !!timestamp '2012-09-13 22:55:31.484324'
+    
+- model: lesson.course
+  pk: 4
+  fields: 
+    courseArrange: asdf
+    courseDescription: asdf
+    courseName: 4
+    courseSpeaker: asdf
+    courseStartTime: !!timestamp '2012-09-30 00:00:00'
+    courseTime: 4
+    courseWare: ''
+    createDate: !!timestamp '2012-09-30 23:35:11.672731'
+    enrollEndTime: !!timestamp '2012-09-30 00:00:00'
+    enrollStartTime: !!timestamp '2012-09-10 00:00:00'
+    event_type: 1
+    maxTraineeAmount: 4
+    updatedDate: !!timestamp '2012-09-13 22:55:31.484324'
+    
+- model: lesson.course
+  pk: 5
+  fields: 
+    courseArrange: asdf
+    courseDescription: asdf
+    courseName: 5
+    courseSpeaker: asdf
+    courseStartTime: !!timestamp '2012-09-30 00:00:00'
+    courseTime: 4
+    courseWare: ''
+    createDate: !!timestamp '2012-09-30 23:35:11.672731'
+    enrollEndTime: !!timestamp '2012-09-30 00:00:00'
+    enrollStartTime: !!timestamp '2012-09-10 00:00:00'
+    event_type: 1
+    maxTraineeAmount: 4
+    updatedDate: !!timestamp '2012-09-13 22:55:31.484324'
+    
+- model: lesson.course
+  pk: 6
+  fields: 
+    courseArrange: asdf
+    courseDescription: asdf
+    courseName: 6
+    courseSpeaker: asdf
+    courseStartTime: !!timestamp '2012-09-30 00:00:00'
+    courseTime: 4
+    courseWare: ''
+    createDate: !!timestamp '2012-09-30 23:35:11.672731'
+    enrollEndTime: !!timestamp '2012-09-30 00:00:00'
+    enrollStartTime: !!timestamp '2012-09-10 00:00:00'
+    event_type: 1
+    maxTraineeAmount: 4
+    updatedDate: !!timestamp '2012-09-13 22:55:31.484324'
+    
+- model: lesson.course
+  pk: 7
+  fields: 
+    courseArrange: asdf
+    courseDescription: asdf
+    courseName: 7
+    courseSpeaker: asdf
+    courseStartTime: !!timestamp '2012-09-30 00:00:00'
+    courseTime: 4
+    courseWare: ''
+    createDate: !!timestamp '2012-09-30 23:35:11.672731'
+    enrollEndTime: !!timestamp '2012-09-30 00:00:00'
+    enrollStartTime: !!timestamp '2012-09-10 00:00:00'
+    event_type: 1
+    maxTraineeAmount: 4
+    updatedDate: !!timestamp '2012-09-13 22:55:31.484324'
+    
+- model: lesson.course
+  pk: 8
+  fields: 
+    courseArrange: asdf
+    courseDescription: asdf
+    courseName: 8
+    courseSpeaker: asdf
+    courseStartTime: !!timestamp '2012-09-30 00:00:00'
+    courseTime: 4
+    courseWare: ''
+    createDate: !!timestamp '2012-09-30 23:35:11.672731'
+    enrollEndTime: !!timestamp '2012-09-30 00:00:00'
+    enrollStartTime: !!timestamp '2012-09-10 00:00:00'
+    event_type: 1
+    maxTraineeAmount: 4
+    updatedDate: !!timestamp '2012-09-13 22:55:31.484324'
+    
+- model: lesson.course
+  pk: 9
+  fields: 
+    courseArrange: asdf
+    courseDescription: asdf
+    courseName: 9
+    courseSpeaker: asdf
+    courseStartTime: !!timestamp '2012-09-30 00:00:00'
+    courseTime: 4
+    courseWare: ''
+    createDate: !!timestamp '2012-09-30 23:35:11.672731'
+    enrollEndTime: !!timestamp '2012-09-30 00:00:00'
+    enrollStartTime: !!timestamp '2012-09-10 00:00:00'
+    event_type: 1
+    maxTraineeAmount: 4
+    updatedDate: !!timestamp '2012-09-13 22:55:31.484324'
+    
+- model: lesson.course
+  pk: 10
+  fields: 
+    courseArrange: asdf
+    courseDescription: asdf
+    courseName: 10
+    courseSpeaker: asdf
+    courseStartTime: !!timestamp '2012-09-30 00:00:00'
+    courseTime: 4
+    courseWare: ''
+    createDate: !!timestamp '2012-09-30 23:35:11.672731'
+    enrollEndTime: !!timestamp '2012-09-30 00:00:00'
+    enrollStartTime: !!timestamp '2012-09-10 00:00:00'
+    event_type: 1
+    maxTraineeAmount: 4
+    updatedDate: !!timestamp '2012-09-13 22:55:31.484324'
+    
+- model: lesson.course
+  pk: 11
+  fields: 
+    courseArrange: asdf
+    courseDescription: asdf
+    courseName: 11
+    courseSpeaker: asdf
+    courseStartTime: !!timestamp '2012-09-30 00:00:00'
+    courseTime: 4
+    courseWare: ''
+    createDate: !!timestamp '2012-09-30 23:35:11.672731'
+    enrollEndTime: !!timestamp '2012-09-30 00:00:00'
+    enrollStartTime: !!timestamp '2012-09-10 00:00:00'
+    event_type: 1
+    maxTraineeAmount: 4
+    updatedDate: !!timestamp '2012-09-13 22:55:31.484324'
+    
+- model: lesson.course
+  pk: 12
+  fields: 
+    courseArrange: asdf
+    courseDescription: asdf
+    courseName: 12
+    courseSpeaker: asdf
+    courseStartTime: !!timestamp '2012-09-30 00:00:00'
+    courseTime: 4
+    courseWare: ''
+    createDate: !!timestamp '2012-09-30 23:35:11.672731'
+    enrollEndTime: !!timestamp '2012-09-30 00:00:00'
+    enrollStartTime: !!timestamp '2012-09-10 00:00:00'
+    event_type: 1
+    maxTraineeAmount: 4
+    updatedDate: !!timestamp '2012-09-13 22:55:31.484324'
+    
+- model: lesson.course
+  pk: 13
+  fields: 
+    courseArrange: asdf
+    courseDescription: asdf
+    courseName: asdf
+    courseSpeaker: asdf
+    courseStartTime: !!timestamp '2012-09-30 00:00:00'
+    courseTime: 4
+    courseWare: ''
+    createDate: !!timestamp '2012-09-30 23:35:11.672731'
+    enrollEndTime: !!timestamp '2012-09-30 00:00:00'
+    enrollStartTime: !!timestamp '2012-09-10 00:00:00'
+    event_type: 1
+    maxTraineeAmount: 4
+    updatedDate: !!timestamp '2012-09-13 22:55:31.484324'
+    
+- model: lesson.course
+  pk: 14
+  fields: 
+    courseArrange: asdf
+    courseDescription: asdf
+    courseName: asdf
+    courseSpeaker: asdf
+    courseStartTime: !!timestamp '2012-09-30 00:00:00'
+    courseTime: 4
+    courseWare: ''
+    createDate: !!timestamp '2012-09-30 23:35:11.672731'
+    enrollEndTime: !!timestamp '2012-09-30 00:00:00'
+    enrollStartTime: !!timestamp '2012-09-10 00:00:00'
+    event_type: 1
+    maxTraineeAmount: 4
+    updatedDate: !!timestamp '2012-09-13 22:55:31.484324'
+    
+- model: lesson.course
+  pk: 15
+  fields: 
+    courseArrange: asdf
+    courseDescription: asdf
+    courseName: asdf
+    courseSpeaker: asdf
+    courseStartTime: !!timestamp '2012-09-30 00:00:00'
+    courseTime: 4
+    courseWare: ''
+    createDate: !!timestamp '2012-09-30 23:35:11.672731'
+    enrollEndTime: !!timestamp '2012-09-30 00:00:00'
+    enrollStartTime: !!timestamp '2012-09-10 00:00:00'
+    event_type: 1
+    maxTraineeAmount: 4
+    updatedDate: !!timestamp '2012-09-13 22:55:31.484324'
+    
+- model: lesson.course
+  pk: 16
+  fields: 
+    courseArrange: asdf
+    courseDescription: asdf
+    courseName: asdf
+    courseSpeaker: asdf
+    courseStartTime: !!timestamp '2012-09-30 00:00:00'
+    courseTime: 4
+    courseWare: ''
+    createDate: !!timestamp '2012-09-30 23:35:11.672731'
+    enrollEndTime: !!timestamp '2012-09-30 00:00:00'
+    enrollStartTime: !!timestamp '2012-09-10 00:00:00'
+    event_type: 1
+    maxTraineeAmount: 4
+    updatedDate: !!timestamp '2012-09-13 22:55:31.484324'
+    
+- model: lesson.course
+  pk: 17
+  fields: 
+    courseArrange: asdf
+    courseDescription: asdf
+    courseName: asdf
+    courseSpeaker: asdf
+    courseStartTime: !!timestamp '2012-09-30 00:00:00'
+    courseTime: 4
+    courseWare: ''
+    createDate: !!timestamp '2012-09-30 23:35:11.672731'
+    enrollEndTime: !!timestamp '2012-09-30 00:00:00'
+    enrollStartTime: !!timestamp '2012-09-10 00:00:00'
+    event_type: 1
+    maxTraineeAmount: 4
+    updatedDate: !!timestamp '2012-09-13 22:55:31.484324'
+    
+- model: lesson.course
+  pk: 18
+  fields: 
+    courseArrange: asdf
+    courseDescription: asdf
+    courseName: asdf
+    courseSpeaker: asdf
+    courseStartTime: !!timestamp '2012-09-30 00:00:00'
+    courseTime: 4
+    courseWare: ''
+    createDate: !!timestamp '2012-09-30 23:35:11.672731'
+    enrollEndTime: !!timestamp '2012-09-30 00:00:00'
+    enrollStartTime: !!timestamp '2012-09-10 00:00:00'
+    event_type: 1
+    maxTraineeAmount: 4
+    updatedDate: !!timestamp '2012-09-13 22:55:31.484324'
+    
+- model: lesson.course
+  pk: 19
+  fields: 
+    courseArrange: asdf
+    courseDescription: asdf
+    courseName: asdf
+    courseSpeaker: asdf
+    courseStartTime: !!timestamp '2012-09-30 00:00:00'
+    courseTime: 4
+    courseWare: ''
+    createDate: !!timestamp '2012-09-30 23:35:11.672731'
+    enrollEndTime: !!timestamp '2012-09-30 00:00:00'
+    enrollStartTime: !!timestamp '2012-09-10 00:00:00'
+    event_type: 1
+    maxTraineeAmount: 4
+    updatedDate: !!timestamp '2012-09-13 22:55:31.484324'
+    
+- model: lesson.course
+  pk: 20
+  fields: 
+    courseArrange: asdf
+    courseDescription: asdf
+    courseName: asdf
+    courseSpeaker: asdf
+    courseStartTime: !!timestamp '2012-09-30 00:00:00'
+    courseTime: 4
+    courseWare: ''
+    createDate: !!timestamp '2012-09-30 23:35:11.672731'
+    enrollEndTime: !!timestamp '2012-09-30 00:00:00'
+    enrollStartTime: !!timestamp '2012-09-10 00:00:00'
+    event_type: 1
+    maxTraineeAmount: 4
+    updatedDate: !!timestamp '2012-09-13 22:55:31.484324'
+    
+- model: lesson.course
+  pk: 21
+  fields: 
+    courseArrange: asdf
+    courseDescription: asdf
+    courseName: asdf
+    courseSpeaker: asdf
+    courseStartTime: !!timestamp '2012-09-30 00:00:00'
+    courseTime: 4
+    courseWare: ''
+    createDate: !!timestamp '2012-09-30 23:35:11.672731'
+    enrollEndTime: !!timestamp '2012-09-30 00:00:00'
+    enrollStartTime: !!timestamp '2012-09-10 00:00:00'
+    event_type: 1
+    maxTraineeAmount: 4
+    updatedDate: !!timestamp '2012-09-13 22:55:31.484324'
+    
+
+    
+  

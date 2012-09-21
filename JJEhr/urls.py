@@ -6,7 +6,11 @@ from django.contrib.auth.decorators import login_required
 from django.contrib.staticfiles.urls import staticfiles_urlpatterns
 from django.views.generic.list import ListView
 from JJEhr.survey.models import Survey
+from tastypie.api import Api
 from lesson.api import CourseModelResource
+
+v1_api = Api(api_name='v1')
+v1_api.register(CourseModelResource())
 
 urlpatterns = patterns('',
 
@@ -20,7 +24,7 @@ urlpatterns = patterns('',
     url(r'^backoffice/course/add', 'backoffice.views.addCourse'),
     url(r'^backoffice/notification-email/send', 'backoffice.views.send_notification_email'),
 
-    url(r'^api/', include(CourseModelResource().urls)),
+    url(r'^api/', include(v1_api.urls)),
 )
 
 urlpatterns += staticfiles_urlpatterns()
